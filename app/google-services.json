@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "819837838785",
+    "project_id": "shopify-ebde3",
+    "storage_bucket": "shopify-ebde3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:819837838785:android:0a4de4c9e7c50a95fdbb40",
+        "android_client_info": {
+          "package_name": "com.amvlabs.shopify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "819837838785-n7knikgn24vanh25obpctt8tt085ltj9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRfqnkWZyp8oIoCQr5b1F0SzbrH8E3Se8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "819837838785-n7knikgn24vanh25obpctt8tt085ltj9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
