@@ -120,7 +120,7 @@
                         app:startIconTint="@color/black">
 
                         <com.google.android.material.textfield.TextInputEditText
-                            android:id="@+id/addr_edittext"
+                            android:id="@+id/add_edittext"
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
                             android:gravity="top|left"
@@ -134,7 +134,7 @@
                     </com.google.android.material.textfield.TextInputLayout>
 
                     <androidx.appcompat.widget.AppCompatButton
-                        android:id="@+id/button"
+                        android:id="@+id/submitBtn"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:background="@color/black"
